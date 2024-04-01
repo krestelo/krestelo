@@ -9,5 +9,9 @@
  <p align="center">
   <img src="https://barok.crd.co/assets/images/gallery04/766f3b2c_original.gif?v=8cc45fd0">
 </p>
- 
+
+ <p align="center"> 
+chaiya or bug !
+read my rentry for my info 
+</p>
 
