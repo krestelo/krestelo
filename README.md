@@ -12,6 +12,6 @@
 
  <p align="center"> 
 chaiya or bug !
-read my rentry for my info 
+read my rentry for my info :3
 </p>
 
