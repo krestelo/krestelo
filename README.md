@@ -4,7 +4,7 @@
 <p align="center"> 
 "Is this still worth it... if Bambinata will forget everything one day?"
 </p>
- <img src="https://media.discordapp.net/attachments/789985868370542602/1224379271892701284/Untitled150_20240401162548.png?ex=66a1c5ce&is=66a0744e&hm=64776803357546b67558ed9ca9586a9e6d2ea5ddf84223e0cc70fa2544beb20e&=&format=webp&quality=lossless&width=494&height=199">
+ <img src="https://media.discordapp.net/attachments/789985868370542602/1224379271892701284/Untitled150_20240401162548.png?ex=66a1c5ce&is=66a0744e&hm=64776803357546b67558ed9ca9586a9e6d2ea5ddf84223e0cc70fa2544beb20e&=&format=webp&quality=lossless&width=960&height=388">
 
 
  <p align="center">
