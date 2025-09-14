@@ -1,6 +1,6 @@
 ![Alt text](https://64.media.tumblr.com/0200a5a48335913e22eaeb59940a357c/tumblr_inline_n37h4cIuCk1qhwjx8.gif)
 
-> ![Alt text](https://i.ibb.co/YX9v5xZ/1626-C26-F-911-F-456-B-8-CAB-F45600-F0-E091.png) 
+![Alt text](https://i.ibb.co/YX9v5xZ/1626-C26-F-911-F-456-B-8-CAB-F45600-F0-E091.png) 
 <p align="center"> 
 "Is this still worth it... if Bambinata will forget everything one day?"
 </p>
