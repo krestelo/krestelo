@@ -4,7 +4,7 @@
 <p align="center"> 
 "Is this still worth it... if Bambinata will forget everything one day?"
 </p>
- <img src="https://cdn.discordapp.com/attachments/1416875757082509454/1416875815580467373/image.png?ex=68c86fee&is=68c71e6e&hm=766201c2acdf027fda3e3f40770520f3d558985a62325807d284832425ef71cd&">
+ <img src="[https://cdn.discordapp.com/attachments/1416875757082509454/1416875815580467373/image.png?ex=68c86fee&is=68c71e6e&hm=766201c2acdf027fda3e3f40770520f3d558985a62325807d284832425ef71cd&](https://media.discordapp.net/attachments/1416875757082509454/1416875815580467373/image.png?ex=68c86fee&is=68c71e6e&hm=766201c2acdf027fda3e3f40770520f3d558985a62325807d284832425ef71cd&=&format=webp&quality=lossless&width=1237&height=500)">
 
  <p align="center">
   <img src="https://barok.crd.co/assets/images/gallery04/766f3b2c_original.gif?v=8cc45fd0">
